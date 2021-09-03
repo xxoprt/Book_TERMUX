@@ -11,6 +11,4 @@ git clone https://github.com/xxoprt/Book_TERMUX
 
 cd Book_TERMUX
 
-chmod +x i
-
-./i
+Lanjut Vidio gw cek aja jajal di FAGHP search
